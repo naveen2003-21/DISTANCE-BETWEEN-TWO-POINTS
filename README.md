@@ -8,7 +8,10 @@ Get the two values from the user.
 ### Step 2:
 Prepare the program for distance between two points 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula 
+
+![formula](/formula.jpg)
+
 ### Step 4: 
 Print the values using distance formula
 ### Step 5: 
